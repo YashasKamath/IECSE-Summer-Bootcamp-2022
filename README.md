@@ -1,4 +1,4 @@
-# IECSE Code Summer Project 2020
+# IECSE Code Summer Project 2022
 
 Resources for all tasks will be put in the wiki.</br>
 Solutions for all tasks will be uploaded up on the repo.
